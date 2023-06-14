@@ -8,4 +8,9 @@
     "job_description": "Better job",
     "company_name": "XYZ Software Company",
     "compensation_per_year": "$60000 per year"
+}, {
+    "job_title": "Job 3",
+    "job_description": "IA Job",
+    "company_name": "Mistral",
+    "compensation_per_year": "$80000 per year"
 }]
